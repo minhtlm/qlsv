@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Code\\c#\\qlsv\\qlsv\\qlsv.csproj",
+      "projectUniqueName": "C:\\git_clone\\qlsv\\qlsv\\qlsv.csproj",
       "projectName": "qlsv",
-      "projectPath": "C:\\Code\\c#\\qlsv\\qlsv\\qlsv.csproj",
+      "projectPath": "C:\\git_clone\\qlsv\\qlsv\\qlsv.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Code\\c#\\qlsv\\qlsv\\obj\\",
+      "outputPath": "C:\\git_clone\\qlsv\\qlsv\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

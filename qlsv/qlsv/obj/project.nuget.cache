@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "78yajG9ocYeR+AfAjeeZHEL8kFyNhRe/oRmdnA7gkQ6/gcijx6DZKJqEvoVhfbHwsjCjCfagPdsHL39TbayZEA==",
+  "dgSpecHash": "abRw1tJyGu0MHivPYPOczJbfxlLKujH1UlXDy089+7mc3MCNCd9RVSA3CvfBIp4opf4nE4SbkxMUbGpAUt3Tzw==",
   "success": true,
-  "projectFilePath": "C:\\Code\\c#\\qlsv\\qlsv\\qlsv.csproj",
+  "projectFilePath": "C:\\git_clone\\qlsv\\qlsv\\qlsv.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
